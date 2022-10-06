@@ -1,3 +1,6 @@
+# Detailed description and steps for run project found here: 
+https://jarmx.blogspot.com/2022/10/microservices-security-patterns-and.html
+
 # oauth2.0-spring-security
 
 Go to http://localhost:8082/ui : </br>
