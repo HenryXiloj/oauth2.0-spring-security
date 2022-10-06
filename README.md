@@ -43,12 +43,4 @@ With Access Token we can access for API. </br>
 GET: http://localhost:8081/auth/rest/hello?access_token=your_token </br>
 
 ![alt text](https://github.com/HenryXiloj/oauth2.0-spring-security/blob/master/oauth4.PNG?raw=true)
-
-With Access Token we can access for API. </br> 
-
-GET: http://localhost:8081/auth/rest/hello?access_token=your_token </br>
-
-
-
-
  
